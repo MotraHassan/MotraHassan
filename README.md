@@ -8,9 +8,9 @@ Motra</a></h1>
 
 - 🔭 Al momento sto cercando un azienda dove lavorare</a> 
 
-- 🌱 Sono Svillupatore Frontend
+- 👨‍💻 Sono Sviluppatore Frontend (HTML, CSS, js, Bootstrap)
 
-- 🤝 Ho le basi di NedeJs e MongoDB
+- 🤝 Ho anche le basi di NedeJs e MongoDB
 
 - 🌱 Ora sto imparando React 
 
