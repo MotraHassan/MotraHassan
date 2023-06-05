@@ -1,4 +1,4 @@
-<h1 align="center">Ciao 👋, Sono <a href="https://github.com/MotraHassan" target="blank">
+<h1 align="center">Ciao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">, Sono <a href="https://github.com/MotraHassan" target="blank">
 Motra</a></h1>
 
 
@@ -8,7 +8,7 @@ Motra</a></h1>
 
 - 🔭 Al momento sto cercando un azienda dove lavorare</a> 
 
-- 👨‍💻 Sono Sviluppatore Frontend (HTML, CSS, js, Bootstrap)
+- 👨‍💻 Sono Sviluppatore Frontend
 
 - 🤝 Ho anche le basi di NedeJs e MongoDB
 
@@ -17,6 +17,10 @@ Motra</a></h1>
 - 📫 indirizzo Email **motrahassuna@gmail.com**
 
 <br/>
+
+<h3 align="left">Linguaggi :</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 <p align="center">
